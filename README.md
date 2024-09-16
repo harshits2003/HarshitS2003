@@ -3,6 +3,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 ###
+# 💫 About Me:
+An undergrad student, passionate about technology and always eager to learn new things. I love exploring various domains, from software development to data science, and enjoy applying my skills to real-world projects.
+
+🛠️ Skills & Interests:
+
+Programming: Python, C/C++, JavaScript 
+Web Development: HTML, CSS
+Databases: MySQL, MongoDB
+Other interests: ArchLinux, Hyprlnd, Kali-Linux
+Learning: Machine Learning, Cloud Computing, DevOps
+📚 Education: Pursuing a Bachelor's in Electronics & Communication Engineering
+🚀 Current Goal: Expanding my knowledge and exploring new distros and OS
+
+I’m always open to collaborating on new ideas and projects—let's connect and build something amazing together!
+
 
 <h2 align="left">Familiar with Technology:</h2>
 
