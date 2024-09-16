@@ -8,13 +8,13 @@ An undergrad student, passionate about technology and always eager to learn new 
 
 🛠️ Skills & Interests:
 
-Programming: Python, C/C++, JavaScript<br>
-Web Development: HTML, CSS<br>
-Databases: MySQL, MongoDB<br>
-Other interests: ArchLinux, Hyprlnd, Kali-Linux<br>
-Learning: Machine Learning, Cloud Computing, DevOps<br>
-📚 Education: Pursuing a Bachelor's in Electronics & Communication Engineering<br>
-🚀 Current Goal: Expanding my knowledge and exploring new distros and OS<br>
+<b>Programming:</b> Python, C/C++, JavaScript<br>
+<b>Web Development:</b> HTML, CSS<br>
+<b>Databases:</b> MySQL, MongoDB<br>
+<b>Other interests:</b> ArchLinux, Hyprlnd, Kali-Linux<br>
+<b>Learning:</b> Machine Learning, Cloud Computing, DevOps<br>
+<br><b>📚 Education:</b> Pursuing a Bachelor's in Electronics & Communication Engineering<br>
+<b>🚀 Current Goal:</b> Expanding my knowledge and exploring new distros and OS<br>
 
 I’m always open to collaborating on new ideas and projects—let's connect and build something amazing together!
 
