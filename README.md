@@ -71,5 +71,9 @@ I’m always open to collaborating on new ideas and projects—let's connect and
 <h2 align="left">Resume:</h2>
 
 ###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshits2003&theme=blue-green&hide_border=false)<br/>
+
+###
 
 [![View Resume](https://img.shields.io/badge/View%20Resume-Click%20Here-brightgreen)](https://github.com/harshits2003/HarshitS2003/blob/main/Resume.pdf)
