@@ -86,4 +86,4 @@ I’m always open to collaborating on new ideas and projects—let's connect and
 
 ###
 
-[![View Resume](https://img.shields.io/badge/View%20Resume-Click%20Here-brightgreen)](https://github.com/harshits2003/HarshitS2003/blob/main/Resume.pdf)
+[![View Resume](https://img.shields.io/badge/View%20Resume-Click%20Here-brightgreen)](https://github.com/harshits2003/HarshitS2003/blob/main/HS_Resume(6).pdf)
