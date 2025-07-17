@@ -4,16 +4,16 @@
 
 ###
 # 💫 About Me:
-An undergrad student, passionate about technology and always eager to learn new things. I love exploring various domains, from software development to data science, and enjoy applying my skills to real-world projects.
+An undergrad student, passionate about technology and AI, always eager to learn and create new things. I love exploring various domains, from LLM develpoment to real-time data processing, along with interests in ML, CyberSec, and hardware-software integration. I enjoy applying my skills to real-world projects.
 
 🛠️ Skills & Interests:
 
-<b>Programming:</b> Python, C/C++, JavaScript<br>
-<b>Web Development:</b> HTML, CSS<br>
+<b>Programming:</b> Python, C/C++<br>
+<b>OS:</b> ROS, Debian, Kali-Linux, Ubuntu, ArchLinux<br>
 <b>Databases:</b> MySQL, MongoDB<br>
-<b>Other interests:</b> ArchLinux, Hyprland, Kali-Linux<br>
-<b>Learning:</b> Machine Learning, Cloud Computing, DevOps<br>
-<br><b>📚 Education:</b> Pursuing a Bachelor's in Electronics & Communication Engineering<br>
+<b>Other Interests:</b> Vrtualization, Automation, Agentic AI, LLMs, ML, CyberSec and also ... Linux Ricing (Hyprland/Wayland)<br>
+<b>Hardware:</b> Arduino, NodeMCU, ESP32, Raspberry PI<br>
+<b>📚 Education:</b> Pursuing a Bachelor's in Electronics & Communication Engineering<br>
 <b>🚀 Current Goal:</b> Expanding my knowledge and exploring new distros and OS<br>
 
 I’m always open to collaborating on new ideas and projects—let's connect and build something amazing together!
