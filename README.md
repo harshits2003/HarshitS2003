@@ -13,7 +13,7 @@ An undergrad student, passionate about technology and AI, always eager to learn 
 <b>Databases:</b> MySQL, MongoDB<br>
 <b>Other Interests:</b> Vrtualization, Automation, Agentic AI, LLMs, ML, CyberSec and also ... Linux Ricing (Hyprland/Wayland)<br>
 <b>Hardware:</b> Arduino, NodeMCU, ESP32, Raspberry PI<br>
-<b>📚 Education:</b> Pursuing a Bachelor's in Electronics & Communication Engineering<br>
+<br><b>📚 Education:</b> Pursuing a Bachelor's in Electronics & Communication Engineering<br>
 <b>🚀 Current Goal:</b> Expanding my knowledge and exploring new distros and OS<br>
 
 I’m always open to collaborating on new ideas and projects—let's connect and build something amazing together!
